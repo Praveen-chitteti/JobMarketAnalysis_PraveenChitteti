@@ -1,0 +1,560 @@
+location,company,avg_salary,avg_rating
+"Aberdeen, MD 21001",Emcube Technlogy,126186.27654150198,0.0
+"Addison, TX 75001",TIA Infotek inc,102076.0,0.0
+"Aiken, SC",Savannah River National Laboratory,168558.82962450592,4.2
+"Alameda, CA 94501",ITCommence Inc,168558.82962450592,4.0
+"Albuquerque, NM 87101",Firebird AST,168558.82962450592,4.2
+"Alexandria, VA 22301","Applied Research Associates, Inc",168558.82962450592,4.0
+"Allegan, MI 49010",Perrigo,168558.82962450592,3.5
+"Alpharetta, GA 30004",Flex Employee Services,202800.0,4.0
+"Alpharetta, GA 30022",Global Payment Holding Company,168558.82962450592,3.3
+"Anacostia, DC",Syntelligent Analytic Solutions,111000.0,3.6
+"Ann Arbor, MI 48108",Thomson Reuters,200000.0,3.9
+"Annapolis Junction, MD",Parsons,169100.0,3.9
+"Annapolis Junction, MD",Shield Consulting Solutions,168558.82962450592,4.0
+"Annapolis Junction, MD 20701",CyberTrend Engineering LLC,168558.82962450592,0.0
+"Annapolis Junction, MD 20701",Everwatch,187512.0,5.0
+"Arden Hills, MN",Boston Scientific Corporation,150350.0,3.9
+"Arlington, VA",Amazon,174925.0,3.5
+"Arlington, VA","Amazon Web Services, Inc.",174925.0,3.4
+"Arlington, VA",Deloitte,168558.82962450592,3.9
+"Arlington, VA",Revalize,130000.0,1.2
+"Arlington, VA 22201","Dfuse Technologies, Inc.",150000.0,0.0
+"Arlington, VA 22201",Elder Research,168558.82962450592,4.6
+"Arlington, VA 22201",Leidos,208962.5,3.7
+"Arlington, VA 22203","The Cadmus Group, Inc.",150000.0,3.6
+"Ashburn, VA 20147",ManTech,168558.82962450592,3.9
+"Atlanta, GA",AT&T,215650.0,3.7
+"Atlanta, GA",Amazon,188600.0,3.5
+"Atlanta, GA","Amazon Web Services, Inc.",188600.0,3.4
+"Atlanta, GA",Cargill,168558.82962450592,3.7
+"Atlanta, GA",CoStar Group,168558.82962450592,2.8
+"Atlanta, GA",Delta Airlines,168558.82962450592,4.2
+"Atlanta, GA",GAINSystems,168558.82962450592,1.0
+"Atlanta, GA",Sage,168558.82962450592,3.4
+"Atlanta, GA 30303",McKinsey & Company,168558.82962450592,4.2
+"Atlanta, GA 30305",Capgemini,168558.82962450592,3.7
+"Atlanta, GA 30308",Honeywell,168558.82962450592,3.7
+"Atlanta, GA 30309",Stantec,168558.82962450592,3.6
+"Atlanta, GA 30319",AT&T,156400.0,3.7
+"Atlanta, GA 30339",Home Depot / THD,168558.82962450592,3.7
+"Aurora, CO 80011",Stratagem Group LLC,180000.0,5.0
+"Austin, TX",Amazon,168558.82962450592,3.5
+"Austin, TX",Annapurna Labs (U.S.) Inc.,168558.82962450592,3.4
+"Austin, TX",Charles Schwab,143450.0,3.9
+"Austin, TX",Electronic Arts,168558.82962450592,3.8
+"Austin, TX",Google,177500.0,4.3
+"Austin, TX",SEON Technologies,168558.82962450592,3.2
+"Austin, TX 78701",CVS Health,139050.0,3.2
+"Austin, TX 78701",Dew Software,114400.0,0.0
+"Austin, TX 78701",NVIDIA,217750.0,4.2
+"Austin, TX 78746",Tesla,168558.82962450592,3.3
+"Bala-Cynwyd, PA 19004",The Pep Boys Manny Moe & Jack LLC,168558.82962450592,3.1
+"Baltimore, MD 21201",State of Maryland,70175.5,3.6
+"Basking Ridge, NJ",Verizon,175750.0,3.8
+"Baton Rouge, LA 70808",Louisiana State University,168558.82962450592,4.1
+"Beavercreek, OH 45431",Riverside Research Institute,95000.0,3.9
+"Beaverton, OR 97008",Cerium Networks Inc,140000.0,3.1
+"Bedford, MA 01730","Oxipital AI, Inc.",168558.82962450592,0.0
+"Bellevue, WA",American Express Global Business Travel,172532.0,3.6
+"Bellevue, WA",Chewy,157000.0,2.8
+"Bellevue, WA",Snowflake,193500.0,3.6
+"Bellevue, WA 98005",Meta,168060.6,4.12
+"Bellevue, WA 98006","T-Mobile USA, Inc.",121000.0,3.7
+"Belmont, CA",Volkswagen Group of America - Chattanooga Operations,155000.0,0.0
+"Bentonville, AR 72716",Walmart,165000.0,3.4
+"Bethesda, MD",Aledade,222500.0,3.1
+"Bethesda, MD",Base-2 Solutions,184083.1325,3.3
+"Bethesda, MD 20814",Sunayu,168558.82962450592,0.0
+"Boise, ID 83702",Simplot,168558.82962450592,3.6
+"Boston, MA","Alexion Pharmaceuticals,Inc.",168558.82962450592,3.5
+"Boston, MA",Amazon,161250.0,3.5
+"Boston, MA","Amazon Web Services, Inc.",161250.0,3.4
+"Boston, MA",AstraZeneca,168558.82962450592,4.0
+"Boston, MA",Costello Medical,86500.0,3.3
+"Boston, MA",Flywire,168558.82962450592,3.8
+"Boston, MA",Jellyfish,168558.82962450592,3.6
+"Boston, MA",Paratus Sciences Corporation,168558.82962450592,0.0
+"Boston, MA",Publicis Groupe,109220.0,3.6
+"Boston, MA",Verily,170000.0,3.8
+"Boston, MA 02115",OST Inc,176800.0,0.0
+"Boston, MA 02210","Red Hat, Inc.",177165.0,4.0
+"Bothell, WA",Pfizer,193700.0,4.2
+"Boulder, CO",Workday,180300.0,3.9
+"Brooklyn Park, MN 55445",Target,167750.0,3.5
+"Buffalo, NY",Honeywell,165000.0,3.7
+"Burlingame, CA 94010",Meta,243500.0,4.0
+"Calabasas, CA",AMH,143173.0,2.8
+California,California State University,168558.82962450592,4.3
+California,Durlston Partners,300000.0,0.0
+"Cambridge, MA",Bristol-Myers Squibb,168558.82962450592,4.1
+"Cambridge, MA",Google,244000.0,4.3
+"Camden, NJ 08102",NFI Industries,108459.26,3.1
+"Carmel, IN 46032",MIDCONTINENT INDEPENDENT SYSTEM,124500.0,3.2
+"Cary, NC",WCG,92500.0,3.0
+"Chantilly, VA",2HB Incorporated,168558.82962450592,0.0
+"Chantilly, VA",Bridge Core (BCore),168558.82962450592,5.0
+"Chantilly, VA",Integrated Intel Solutions,168558.82962450592,0.0
+"Chantilly, VA",Motion Recruitment,152500.0,3.7
+"Chantilly, VA",The DarkStar Group,168558.82962450592,0.0
+"Chantilly, VA 20151",CACI,139950.0,3.8
+"Charlotte, NC",AIG,168558.82962450592,3.7
+"Charlotte, NC",G2i Inc.,83200.0,1.0
+"Charlotte, NC",Infosys,168558.82962450592,3.8
+"Charlotte, NC",RVO Health,138425.0,3.0
+"Charlotte, NC",The Hartford,138400.0,3.6
+"Charlotte, NC",Vanguard,168558.82962450592,3.6
+"Charlotte, NC",Wells Fargo,170469.60987483533,3.6
+"Charlotte, NC 28202",Bank of America,168558.82962450592,3.7999999999999994
+"Charlotte, NC 28202",TekValue IT Solutions LLC,168558.82962450592,0.0
+"Charlotte, NC 28202",Wells Fargo,168558.82962450592,3.6
+"Charlotte, NC 28206",Robert E Mason & Associates Inc,168558.82962450592,3.8
+"Charlotte, NC 28217",Spectrum,168558.82962450592,3.3
+"Charlotte, NC 28277",Wells Fargo,168558.82962450592,3.6
+"Charlottesville, VA",General Atomics and Affiliated Companies,134749.0,3.6
+"Chesapeake, VA","Ishpi Information Technologies, Inc",168558.82962450592,4.0
+"Chicago, IL",Chicago Trading Company (CTC),168558.82962450592,4.0
+"Chicago, IL",EVERSANA,188500.0,2.7
+"Chicago, IL",PayPal,159950.0,3.8
+"Chicago, IL",Publicis Groupe,168558.82962450592,3.6
+"Chicago, IL",Techstra Solutions,168558.82962450592,0.0
+"Chicago, IL",United Airlines,135487.5,3.9
+"Chicago, IL","Vizient, Inc.",106400.0,3.7
+"Chicago, IL 60290",The Hartford,138400.0,3.6
+"Chicago, IL 60601",AXA,125000.0,3.9
+"Chicago, IL 60606",iManage,155000.0,4.5
+"Chicago, IL 60661",Motorola Solutions,105000.0,4.1
+"Cleveland, OH 44195",Cleveland Clinic,168558.82962450592,3.8
+"Collegeville, PA 19426",GSK,168558.82962450592,4.1
+"Columbia, MD","Intezra, Inc.",235000.0,0.0
+"Columbia, MD",Oracle,168558.82962450592,3.8
+"Columbus, OH",BMW,81450.0,3.8
+"Columbus, OH",Ocean Blue Solutions,168558.82962450592,0.0
+"Columbus, OH",absiusa,168558.82962450592,0.0
+"Columbus, OH 43215",Huntington Bank,168558.82962450592,3.5
+"Corona, CA 92879",Monster Energy US LLC,126875.0,0.0
+"Costa Mesa, CA 92626",Auto Club Of Southern Calif,165750.0,0.0
+"Cupertino, CA",Apple,222925.0,4.1
+"Cupertino, CA",DataAnnotation,83200.0,3.8
+"Dahlgren, VA",Radiance Technologies,168558.82962450592,4.3
+"Dahlgren, VA",SMX,140100.0,3.8
+"Dallas, TX",AT&T,186025.0,3.7
+"Dallas, TX",Collaborating Techs LLC,106080.0,0.0
+"Dallas, TX",Katalyst Healthcares & Life Sciences,168558.82962450592,4.0
+"Dallas, TX",MGR Workforce,58240.0,2.8
+"Dallas, TX 75201",Goldman Sachs,168558.82962450592,3.9
+"Dayton, OH 45402",Sinclair Community College,112144.0,4.2
+"Dayton, OH 45433","BlueHalo, an AV Company",168558.82962450592,4.0
+"Dearborn, MI 48126",Ford Motor Company,168558.82962450592,4.1
+"Denver, CO 80014",IntelliGenesis,97991.965,4.7
+"Denver, CO 80203",Denver Health,93700.0,3.6
+"Des Moines, IA",EMC Insurance,168558.82962450592,3.7
+"Downers Grove, IL 60515",Syngenta Seeds,168558.82962450592,4.1
+"East Hanover, NJ 07936",Novartis,189000.0,4.1
+"Edison, NJ",Orion Innovation,168558.82962450592,2.6
+"Englewood, CO 80112",EchoStar Careers,115254.8,0.0
+"Erlanger, KY",ADM,105152.0,3.4
+"Everett, WA",BOEING,139000.0,3.9
+"Falls Church, VA 22042",Enabled Intelligence,62500.0,0.0
+Florida,Baptist Health South Florida,163989.14,4.1
+"Ford Island, HI",Booz Allen,162000.0,3.9
+"Fort Bragg, NC 28307",Thomas Solutions Incorporated,67500.0,5.0
+"Fort Collins, CO",PM Control Systems Pte Ltd,99200.0,3.0
+"Fort Meade, MD",Base-2 Solutions,195355.965,3.3
+"Fort Meade, MD",Concurrent Technologies Corporation,168558.82962450592,3.7
+"Fort Meade, MD 20755","Prime Time Consulting, L.L.C",107500.0,3.0
+"Fort Worth, TX 76102",Deloitte,168650.0,3.9
+"Fort Worth, TX 76102",Lockheed Martin,168558.82962450592,4.0
+"Foster City, CA",Visa,156075.0,3.9
+"Foster City, CA 94404",Indeed,206942.5,4.2
+"Franklin, TN 37067",Nissan,168558.82962450592,3.8
+"Gainesville, FL 32611",University of Florida,88250.0,4.2
+"Gaithersburg, MD 20878",AstraZeneca,196004.33333333334,4.0
+"Grand Rapids, MI 49503",Corewell Health,168558.82962450592,3.6
+"Grand Rapids, MI 49525",Meijer,168558.82962450592,3.3
+"Grand Rapids, MI 49534",OWL Computing Inc.,70000.0,0.0
+"Green Bay, WI 54303",Fincantieri Marine Group,168558.82962450592,3.2
+"Greenwood Village, CO 80111",Horizontal Talent,168558.82962450592,3.4
+"Hartford, CT 06112",The Hartford,191500.0,3.6
+"Henderson, NV",Barclays,160125.0,3.9
+"Herndon, VA",Lockheed Martin,168558.82962450592,4.0
+"Herndon, VA 20171",SAP,168950.0,4.2
+"Honolulu, HI 96813",Hawaii State Judiciary,52998.0,3.9
+"Houston, TX",Johnson Controls,168558.82962450592,3.6
+"Houston, TX 77005",Rice University,168558.82962450592,4.1
+"Houston, TX 77030",MD Anderson Cancer Center,154000.0,4.1
+"Houston, TX 77042",NOV Inc.,168558.82962450592,3.8
+"Howell, MI 48843",Cleary University,700.0,3.5
+"Huntsville, AL",Guidehouse,168558.82962450592,3.3
+"Huntsville, AL 35806",Guidehouse,168558.82962450592,3.3
+"Huntsville, TX",Sam Houston State University,168558.82962450592,4.3
+"Hyattsville, MD 20785",Vidoori,168558.82962450592,3.1
+"Indianapolis, IN",Corteva Agriscience,168558.82962450592,3.6
+"Indianapolis, IN 46077",Genentech,187300.0,4.0
+"Irvine, CA",Medtronic,148000.0,3.8
+"Irvine, CA 92617",Comcast Corporation,108968.46,3.6
+"Irving, NY",Wells Fargo,174100.0,3.6
+"Irving, TX",Citi,157200.0,3.9
+"Irving, TX",Citigroup,184300.0,3.9
+"Irwindale, CA",Edison International,157500.0,3.9
+"Irwindale, CA 91702",Southern California Edison,157500.0,3.9
+"Iselin, NJ",Wells Fargo,191500.0,3.6
+"Iselin, NJ 08830",Wells Fargo,194500.0,3.6
+"Jacksonville, FL",JPMorganChase,168558.82962450592,3.9
+"Jacksonville, FL 32256",JPMorganChase,161625.0,3.9
+"Jersey City, NJ 07310",JPMorganChase,181662.5,3.9
+"Kansas City, MO",Spring Venture Group,168558.82962450592,3.2
+"Lackland AFB, TX 78236","ECS Federal, LLC",168558.82962450592,3.4
+"Lafayette, LA","CGI Group, Inc.",126400.0,3.6
+"Lake Forest, IL",Cella,101920.0,3.2
+"Lake Success, NY 11042",Antech Diagnostics,132000.0,2.9
+"Lansing, MI",Auto-Owners Insurance,168558.82962450592,3.5
+"Lenexa, KS",DataAnnotation,83200.0,3.8
+"Lexington, MA 02421",Riverside Research Institute,130250.5,3.9
+"Lincolnshire, IL","Staples, Inc.",145000.0,3.4
+"Long Beach, CA",California State University (CSU) Chancellor's Office,135000.0,0.0
+"Los Alamos, NM",Los Alamos National Laboratory,168558.82962450592,3.9
+"Los Angeles, CA 90064",The Wonderful Company,190000.0,3.1
+"Malvern, PA",Vanguard,168558.82962450592,3.6
+"Maplewood, MN 55119",Solventum,152710.0,3.8
+Maryland,RealmOne,186000.0,0.0
+"McLean, VA",Capital One,168558.82962450592,3.9
+"McLean, VA",Information Technology Senior Management Forum,162966.66666666666,0.0
+"McLean, VA 22101","Orbis Operations, LLC",168558.82962450592,4.7
+"McLean, VA 22102",Avineon,168558.82962450592,3.5
+"McLean, VA 22102",Steampunk,151250.0,3.3
+"McLean, VA 22103",Praxis Engineering,127317.0,4.8
+"Memphis, TN 38125",FedEx Dataworks,113082.0,5.0
+"Menlo Park, CA",Facebook App,223500.0,4.0
+"Menlo Park, CA",January,200000.0,4.2
+"Menlo Park, CA",Robinhood,174500.0,3.5
+"Menlo Park, CA",Snowflake,311250.0,3.6
+"Menlo Park, CA 94025",Meta,243500.0,4.0
+"Mettawa, IL 60045",Katalyst Healthcares & Life Sciences,168558.82962450592,4.0
+"Miami, FL 33101",Katalyst Healthcares & Life Sciences,168558.82962450592,4.0
+"Michigan City, IN 46360","HITACHI GLOBAL AIR POWER US, LLC",168558.82962450592,0.0
+"Milpitas, CA",Arlo,142500.0,3.3
+"Milwaukee, WI 53214",BAXTER,133000.0,3.7
+"Minneapolis, MN",RVO Health,138425.0,3.0
+"Minneapolis, MN 55403",Target,121500.0,3.5
+Minnesota,3M,135880.0,3.8
+"Minnetonka, MN 55305",UnitedHealthcare,150500.0,3.7
+"Montgomery, NJ 08558",Bloomberg,95000.0,3.9
+"Mooresville, NC",Lowe's,168558.82962450592,3.4
+"Mora, LA",Millicom,168558.82962450592,4.2
+"Mount Pleasant, SC 29466",Ace Payment Solutions,72800.0,0.0
+"Mountain View, CA",Contextual AI,222500.0,0.0
+"Mountain View, CA",FocusKPI Inc.,179920.0,0.0
+"Mountain View, CA",Google,235500.0,4.3
+"Mountain View, CA",Loon,129500.0,5.0
+"Mountain View, CA",Waymo,231500.0,3.1
+"Mountain View, CA 94035",DGN Technologies,176800.0,0.0
+"Mountain View, CA 94043",Bonfy.AI,168558.82962450592,0.0
+"Mountain View, CA 94043",Coupang,241500.0,2.7
+"Mountain View, CA 94043",Honda Research Institute USA,168558.82962450592,0.0
+"Mountain View, CA 94043",Intuit,168558.82962450592,4.1
+"Mountain View, CA 94043",Microsoft,201600.0,4.2
+"Mountain View, CA 94043","NUBYT, Inc.",191880.0,0.0
+"Mountain View, CA 94043",prospanceinc,174200.0,0.0
+"Nashville, TN 37203",Deloitte,185900.0,3.9
+"Nashville, TN 37203",Finance and Administration,117660.0,4.6
+"Nashville, TN 37203",HCA Healthcare,168558.82962450592,3.4
+"Nashville, TN 37203",Work from Home,168558.82962450592,4.5
+New Jersey,Everest Clinical Research,168558.82962450592,4.2
+New Jersey,Indegene,168558.82962450592,3.5
+New Jersey,Tiger Analytics,168558.82962450592,3.9
+New York State,"iHeartMedia, Inc.",139500.0,3.4
+"New York, NY",A Place For Mom,160000.0,4.3
+"New York, NY",Amazon,187116.66666666666,3.5
+"New York, NY","Amazon Web Services, Inc.",205200.0,3.4
+"New York, NY",Amazon.com Services LLC,177533.33333333334,3.5
+"New York, NY",Amex,80000.0,4.1
+"New York, NY",Apple,220000.0,4.1
+"New York, NY",AtkinsRéalis,104500.0,3.9
+"New York, NY",Capital One,168558.82962450592,3.9
+"New York, NY",Citigroup,240000.0,3.9
+"New York, NY",Convene,100000.0,3.2
+"New York, NY",DataArt,190000.0,4.3
+"New York, NY",Deloitte,168650.0,3.9
+"New York, NY",Disney Entertainment and ESPN Product & Technology,205750.0,0.0
+"New York, NY",EliseAI,67500.0,0.0
+"New York, NY",Facebook App,207500.0,4.0
+"New York, NY",Google,206833.33333333334,4.3
+"New York, NY",Handshake,178928.57142857142,3.7
+"New York, NY",Information Technology Senior Management Forum,229430.0,0.0
+"New York, NY",Intone Networks,168558.82962450592,4.1
+"New York, NY",Luminate,210000.0,1.0
+"New York, NY",Lyft,166500.0,3.6
+"New York, NY",MEDIDATA,133875.0,3.6
+"New York, NY",Messenger,146993.6,4.0
+"New York, NY",Meta,205500.0,4.0
+"New York, NY",New York Life Insurance Co,128750.0,3.6
+"New York, NY",PRICE WATERHOUSE COOPERS,139500.0,3.9
+"New York, NY",Publicis Groupe,148445.0,3.6
+"New York, NY",S&P Global,170000.0,3.9
+"New York, NY",TransUnion,120000.0,3.8
+"New York, NY",Uber,196250.0,3.4
+"New York, NY",United Nations,168558.82962450592,4.4
+"New York, NY",Wells Fargo,151350.0,3.6
+"New York, NY",Whatnot,195000.0,4.0
+"New York, NY 10001",Macy’s,201720.0,3.6
+"New York, NY 10003",Capgemini,104246.5,3.7
+"New York, NY 10007",MASE Insights,140400.0,0.0
+"New York, NY 10011",American Technology Experts Inc,78000.0,0.0
+"New York, NY 10011",Peloton,193300.0,3.2
+"New York, NY 10012",Capital One,168558.82962450592,3.9
+"New York, NY 10013",CVS Health,140983.0,3.2
+"New York, NY 10013",Disney Entertainment and ESPN Product & Technology,205750.0,0.0
+"New York, NY 10017",Memorial Sloan Kettering Cancer Center,170675.0,4.1
+"New York, NY 10018",FanDuel,142000.0,3.6
+"New York, NY 10018",Orbis,1000.0,3.2
+"New York, NY 10022",Unified,139500.0,3.0
+"New York, NY 10038",Guttmacher Institute,139050.0,3.8
+"New York, NY 10065",Rockefeller University,182500.0,4.2
+"New York, NY 10111",Rockefeller Capital Management,300000.0,3.2
+"New York, NY 10172",Sumitomo Mitsui Banking Corporation,211500.0,3.7
+"New York, NY 11226",JPS Tech Solutions LLC,109200.0,0.0
+"Newark, NJ 07102",Prudential,172700.0,3.8
+"Newport Beach, CA 92660","The Preferred Prepaid dba XYZies, Inc.",102500.0,0.0
+"Newton, MA 02466",Parexel,168558.82962450592,3.6
+North Carolina,Western Governors University,168558.82962450592,3.6
+"North Chicago, IL",AbbVie,168558.82962450592,3.8
+"North Las Vegas, NV",City of North Las Vegas,106355.765,3.7
+"North Reading, MA 01864",Amazon,168558.82962450592,3.5
+"North Reading, MA 01864",Amazon.com Services LLC,168558.82962450592,3.5
+"Oak Park, IL 60301",Vminds technologies Inc,168558.82962450592,0.0
+"Offutt AFB, NE",Booz Allen,162000.0,3.9
+"Ohio, IL 61349",Career Vest,90209.54,0.0
+"Orange, CA",Alignment Healthcare,187352.5,2.9
+"Orlando, FL 32819",Lockheed Martin,168558.82962450592,4.0
+"Overland Park, KS",Quest Analytics,168558.82962450592,4.0
+"Overland Park, KS",TreviPay,168558.82962450592,3.1
+"Overland Park, KS 66251",T-Mobile,114650.0,3.7
+"Overland Park, KS 66251","T-Mobile USA, Inc.",148550.0,3.7
+"Palo Alto, CA",Glean Technologies,192500.0,0.0
+"Palo Alto, CA",Machinify,168558.82962450592,0.0
+"Palo Alto, CA 94303",Jazz Pharmaceuticals,168558.82962450592,3.5
+"Philadelphia, PA",Capgemini,168558.82962450592,3.7
+"Philadelphia, PA 19102",Liberty Personnel Services,168558.82962450592,4.4
+"Philadelphia, PA 19103",Jazz Pharmaceuticals,168558.82962450592,3.5
+"Phoenix, AZ 85016",TIA Infotek inc,107588.0,0.0
+"Phoenix, AZ 85027",Exponent Inc.,168558.82962450592,3.8
+"Phoenix, AZ 85051",A.I. Service Agents & Automation,205058.66,0.0
+"Phoenix, AZ 85074",ABOTTS Consulting Inc,130000.0,5.0
+"Plano, TX",JPMorganChase,168558.82962450592,3.9
+"Plano, TX",PRO IT Inc.,152500.0,0.0
+"Plano, TX 75024",Intuit,168558.82962450592,4.1
+"Plano, TX 75024",JPMorganChase,183097.55308300396,3.9
+"Plano, TX 75024",PepsiCo,142250.0,3.7
+"Portage, IN 46368",Monosol Llc,116525.07,2.9
+"Portland, OR 97205",Elemental Technologies LLC,168558.82962450592,3.5
+"Princeton, NJ",Bristol-Myers Squibb,176914.41481225297,4.1
+"Princeton, NJ",PharmaACE,168558.82962450592,0.0
+"Purvis, MS 39475","ELEVATE ME, INC.",87500.0,0.0
+"Raleigh, NC",Celonis,168558.82962450592,3.5
+"Raleigh, NC 27519",The Mutual Group,175000.0,0.0
+"Raleigh, NC 27610",ERP Initiatives Group Inc.,168558.82962450592,0.0
+"Redmond, WA",Meta,146993.6,4.2
+"Redmond, WA 98052",Microsoft,188000.0,4.2
+Remote,Allstate,121660.0,3.6
+Remote,Alpha Net Consulting LLC,111311.2,3.3
+Remote,Altak Group,140400.0,0.0
+Remote,Archive Health,100000.0,0.0
+Remote,Arity,110437.5,4.3
+Remote,Arkatechture,168558.82962450592,0.0
+Remote,Ascension,168558.82962450592,3.5
+Remote,Ash & Harris Executive Search,168558.82962450592,0.0
+Remote,Blue River Technology,312000.0,3.5
+Remote,CONSULTREE CONSULTING SERVICES LLC,130000.0,0.0
+Remote,Cohere Health,212500.0,2.7
+Remote,Concord USA,105000.0,3.8
+Remote,Dotdash Meredith,82500.0,3.2
+Remote,EQT Corporation,168558.82962450592,3.5
+Remote,Freelancing,135200.0,4.6
+Remote,GoodLeap,158000.0,3.3
+Remote,"Huntridge Labs, LLC",190000.0,0.0
+Remote,IBR (Imagine Believe Realize),155643.34000000003,0.0
+Remote,Instacart,268750.0,3.1
+Remote,Joint Research and Development (JRAD),127504.0,0.0
+Remote,July Business Services Llc,168558.82962450592,3.6
+Remote,Key2Source INC,176800.0,0.0
+Remote,Koniag Government Services,168558.82962450592,3.8
+Remote,"LabConnect, LLC",168558.82962450592,3.0
+Remote,Lexitas Pharma Services,150000.0,3.0
+Remote,Liberty Mutual,164500.0,3.5
+Remote,Lovelytics,168558.82962450592,0.0
+Remote,MNTN,168558.82962450592,3.5
+Remote,"Mercury Insurance Services, LLC",142781.0,3.5
+Remote,Mitsubishi Chemical America,87400.0,3.3
+Remote,MojoTech,150000.0,0.0
+Remote,Mozilla,164463.32,4.1
+Remote,MyFitnessPal,167500.0,5.0
+Remote,Netflix,312500.0,4.0
+Remote,Pathogens Artificial Intelligence Inc.,168558.82962450592,0.0
+Remote,Progressive,103450.0,3.6
+Remote,Quantori,159695.5,3.8
+Remote,Quisitive,168558.82962450592,2.9
+Remote,SalesPoint Pvt. Ltd.,150800.0,5.0
+Remote,SmartAdvocate,140000.0,0.0
+Remote,Sparksoft Corporation,168558.82962450592,4.0
+Remote,THUNDERYARD SOLUTIONS,127500.0,0.0
+Remote,The Brite Group,72800.0,3.0
+Remote,Western Governors University,70740.80000000002,3.6
+Remote,enArchAI,187200.0,0.0
+Remote,iFIT,168558.82962450592,3.4
+"Renton, WA",BOEING,102000.0,3.9
+"Reston, VA",Excelacom,168558.82962450592,3.2
+"Reston, VA",Fannie Mae,108000.0,4.0
+"Reston, VA 20190",Amivero,168558.82962450592,4.8
+"Reston, VA 20190",ICF,136347.0,3.4
+"Richardson, TX",Motorola Solutions,117000.0,4.1
+"Richardson, TX 75081",Motorola Solutions,117000.0,4.1
+"Ridgefield, CT 06877","BI Pharmaceuticals, Inc.",168558.82962450592,4.0
+"Ridgefield, CT 06877",BI USA,168558.82962450592,4.0
+"Riverside, CA 92518",CACI,139950.0,3.8
+"Rochester, MN 55901",Mayo Clinic,165574.69999999998,3.7999999999999994
+"Rockville, MD 20850","TriMerge Consulting Group, P.A.",97500.44,5.0
+"Roseville, MN",Cognizant,90968.5,3.8
+"Roslindale, MA 02131",Hebrew SeniorLife,168558.82962450592,3.6
+"Roswell, GA",Kimberly-Clark,118180.0,4.1
+"Saint Louis Park, MN 55416",SAP,269450.0,4.2
+"Saint Louis Park, MN 55416",SAP Group,269450.0,4.0
+"Saint Paul, MN",State of Minnesota,82128.8,3.4
+"Salt Lake City, UT",Western Governors University,119850.0,3.6
+"Salt Lake City, UT 84103",The Church of Jesus Christ of Latter-day Saints,168558.82962450592,4.7
+"San Antonio, TX",VIA Metropolitan Transit,168558.82962450592,3.5
+"San Antonio, TX 78204",HEB,168558.82962450592,4.2
+"San Bruno, CA",Google,205000.0,4.3
+"San Bruno, CA 94066",Walmart,175500.0,3.4
+"San Diego, CA",Amazon,207650.0,3.5
+"San Diego, CA",Amazon.com Services LLC,171100.0,3.5
+"San Diego, CA",Apple,231450.0,4.1
+"San Diego, CA","Iambic Therapeutics, Inc",183500.0,0.0
+"San Diego, CA",Qualcomm,198450.0,4.0
+"San Diego, CA 92101",Katalyst Healthcares & Life Sciences,168558.82962450592,4.0
+"San Diego, CA 92101",Optum,181950.0,3.3
+"San Diego, CA 92121",Lytx,184250.0,3.4
+"San Francisco, CA",Airwallex,190000.0,2.3
+"San Francisco, CA",Amazon,200925.0,3.5
+"San Francisco, CA",Amazon.com Services LLC,212283.33333333334,3.5
+"San Francisco, CA",Atlassian,211142.5,3.9
+"San Francisco, CA",EvenUp,168558.82962450592,3.2999999999999994
+"San Francisco, CA",Handshake,142500.0,3.7
+"San Francisco, CA",LiveRamp,168558.82962450592,3.4
+"San Francisco, CA",Motive,154000.0,3.9
+"San Francisco, CA",Okta,168558.82962450592,3.9
+"San Francisco, CA",OpenAI,365000.0,4.5
+"San Francisco, CA",Oura,171000.0,0.0
+"San Francisco, CA",Pylon,195000.0,3.3
+"San Francisco, CA",UCSF Health,179850.0,4.0
+"San Francisco, CA",Uber,201000.0,3.4
+"San Francisco, CA 94102",Charles Schwab,197500.0,3.9
+"San Francisco, CA 94104",Atlassian,211142.5,3.9
+"San Francisco, CA 94105",Disney Entertainment and ESPN Product & Technology,209350.0,0.0
+"San Francisco, CA 94105",Instawork,250000.0,3.3
+"San Francisco, CA 94105",Salesforce,238450.0,4.2
+"San Francisco, CA 94108",Comcast Corporation,376773.535,3.6
+"San Francisco, CA 94110",Lyft,166500.0,3.6
+"San Francisco, CA 94143",University of California San Francisco,128275.0,4.1
+"San Jose, CA",ChipStack,168558.82962450592,0.0
+"San Jose, CA",Cisco Systems,168558.82962450592,4.1
+"San Jose, CA",TikTok,197500.0,3.3
+"San Jose, CA",paypal,284075.0,3.8
+"San Jose, CA 95110",Adobe,124500.0,4.3
+"San Jose, CA 95124","Advanced Micro Devices, Inc",168558.82962450592,3.8
+"San Juan, PR",Popular Bank,168558.82962450592,4.1
+"Santa Clara, CA",DataAnnotation,83200.0,3.8
+"Santa Clara, CA",Palo Alto Networks,215000.0,3.8
+"Santa Clara, CA 94085",Amazon,195450.0,3.5
+"Santa Clara, CA 95050",Apple,293250.0,4.1
+"Santa Clara, CA 95050",NVIDIA,233562.5,4.2
+"Santa Clara, CA 95054",ServiceNow,243000.0,3.8
+"Schaumburg, IL 60159",Optum,150500.0,3.3
+"Scottsdale, AZ",PayPal,168175.0,3.8
+"Scottsdale, AZ 85255",Discount Tire,168558.82962450592,3.8
+"Scottsdale, AZ 85255",Sumitomo Mitsui Banking Corporation,251500.0,3.7
+"Seattle, WA",Amazon,201361.11111111112,3.5
+"Seattle, WA","Amazon Web Services, Inc.",183187.5,3.4
+"Seattle, WA",Amazon.com LLC,169150.0,3.5
+"Seattle, WA",Amazon.com Services LLC,191708.33333333334,3.5
+"Seattle, WA",Google,205000.0,4.3
+"Seattle, WA",Oracle,168558.82962450592,3.8
+"Seattle, WA",TikTok,187625.0,3.3
+"Seattle, WA 98104",Amazon.com Services LLC,205200.0,3.5
+"Seattle, WA 98105",Apple,229016.66666666666,4.1
+"Seattle, WA 98107",Zoom,246030.0,3.8
+"Seattle, WA 98168",Cerium Networks Inc,140000.0,3.1
+"Shelton, CT 06484",Lockheed Martin,168558.82962450592,4.0
+"Silver Spring, MD",ManTech,168558.82962450592,3.9
+"South San Francisco, CA 94080",ZS,168558.82962450592,3.5
+"Spring House, PA",Johnson & Johnson,156400.0,4.2
+"Springfield, VA 22150",CACI,210900.0,3.8
+"St. Louis, MO",NTT DATA,130249.6,3.5
+"St. Louis, MO 63101",NTT DATA,130249.6,3.5
+"St. Louis, MO 63132",Confluence Genetics LLC,168558.82962450592,0.0
+"Sterling, VA 20166",Collins Aerospace,136000.0,3.6
+"Sunnyvale, CA",Amazon,179700.0,3.5
+"Sunnyvale, CA",Apple,242237.5,4.1
+"Sunnyvale, CA",Google,200600.0,4.3
+"Sunnyvale, CA",Peloton,153250.0,4.8
+"Sunnyvale, CA 94085",Bosch Group,270000.0,4.0
+"Sunnyvale, CA 94085",Fiserv,168700.0,3.3
+"Sunnyvale, CA 94085","Fiserv, Inc.",168700.0,3.3
+"Sunnyvale, CA 94086",Walmart,195000.0,3.4
+"Sunnyvale, CA 94089",Meta,178625.0,4.1
+"Sunnyvale, CA 94089",Walmart,214500.0,3.4
+"Tampa, FL 33601",Citi,129900.0,3.9
+"Tampa, FL 33610",Suncoast Credit Union,95000.0,3.8
+"Tempe, AZ",ADP,113565.0,3.8
+"Tempe, AZ",RevolutionParts,95000.0,2.8
+"Tempe, AZ 85281",Deloitte,185900.0,3.9
+"Titusville, FL",Johnson & Johnson,156400.0,4.2
+United States,AbsoluteCARE Medical and Pharmacy,168558.82962450592,2.4
+United States,Airbnb,274500.0,4.2
+United States,Altria,162450.0,4.0
+United States,Articul8,168558.82962450592,0.0
+United States,BBCMGTai LLC,168558.82962450592,5.0
+United States,BetaNXT Inc,168558.82962450592,3.0
+United States,DNS Solutions Inc.,285000.0,0.0
+United States,Deloitte,177229.41481225297,3.9
+United States,Grid Dynamics,168558.82962450592,3.4
+United States,Handshake,161200.0,3.7
+United States,KIGO LLC,168558.82962450592,2.3
+United States,Microsoft,188900.0,4.2
+United States,Oracle,168558.82962450592,3.8
+United States,Sleeper,187200.0,3.0
+United States,TSP LLC,105000.0,0.0
+United States,Teleskope,67500.0,0.0
+United States,TextLayer,125000.0,0.0
+United States,The Standard,168558.82962450592,3.5
+"Vienna, VA 22180",Navy Federal Credit Union,168558.82962450592,3.8
+"Vienna, VA 22182",Amentum,168558.82962450592,3.8
+Virginia,CrowdStrike,125000.0,3.7
+"Warren, NJ 07059","Everest Re Group, Ltd.",200000.0,3.5
+Washington State,"Red Hat, Inc.",169470.0,4.0
+"Washington, DC",Andrew Morgan,168558.82962450592,5.0
+"Washington, DC","Bluehawk, LLC",168558.82962450592,3.4
+"Washington, DC",Booz Allen,90600.0,3.9
+"Washington, DC",Splunk,190095.0,4.1
+"Washington, DC",The Knot Worldwide,168558.82962450592,3.4
+"Washington, DC 20001",Cherokee Federal,168558.82962450592,3.1
+"Washington, DC 20001","Onyx Government Services,LLC",168558.82962450592,4.5
+"Washington, DC 20003",Greystones Consulting Group LLC,130000.0,0.0
+"Washington, DC 20005",Center For Democracy Technology,97500.0,0.0
+"Washington, DC 20006",MetroStar,155500.0,4.3
+"Washington, DC 20007",Georgetown University,153250.965,4.1
+"Washington, DC 20022","CGI Group, Inc.",169380.0,3.6
+"Washington, DC 20032",QinetiQ US,168558.82962450592,3.7
+"Washington, DC 20036",Improvix Technologies,168558.82962450592,5.0
+"Washington, NC",Infosys,70700.0,3.8
+"Wellesley, MA 02481",CVS Health,126428.0,3.2
+"West Des Moines, IA 50265",The Mutual Group,168558.82962450592,0.0
+"Westwood, MA",EVERSOURCE,165765.0,3.5
+"Wichita, KS 67201",Koch Engineered Solutions,168558.82962450592,3.6
+Wisconsin,Collins Aerospace,123000.0,3.6
+Wisconsin,Harley-Davidson,168558.82962450592,3.6
+"Woodbridge, NJ 07095",Plymouth Rock Assurance Corporation,124500.0,3.4
+"Woodbridge, VA",DataAnnotation,83200.0,3.8
+"Woonsocket, RI 02895",CVS Health,122155.83333333333,3.2000000000000006
+"Wright-Patterson AFB, OH",Epsilon Systems Solutions Inc,168558.82962450592,3.7
+"Yardley, PA 19067",EVERSANA,130000.0,2.7
